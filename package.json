@@ -1,7 +1,11 @@
 {
 	"author": "Luganda1",
 	"description": "This has been one of the hardest setup ever because replit doesn't work ",
-	"keywords": [ "freecodecamp", "thanks", "words" ],
+	"keywords": [
+		"freecodecamp",
+		"thanks",
+		"words"
+	],
 	"license": "MIT",
 	"version": "1.2.4",
 	"name": "fcc-learn-npm-package-json",
